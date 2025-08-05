@@ -50,3 +50,5 @@ Gained hands-on experience working with public APIs.
 Improved data analysis and visualization skills.
 Understood how to build simple dashboards and real-time data apps.
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/800bd787-f821-4a6f-9584-ee26ed35793b)
